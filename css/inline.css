@@ -1,0 +1,13 @@
+
+:focus {
+  outline: 0;
+}
+a {
+  text-decoration: none;
+}
+b,
+b *,
+strong,
+strong * {
+  font-weight: 700;
+}
